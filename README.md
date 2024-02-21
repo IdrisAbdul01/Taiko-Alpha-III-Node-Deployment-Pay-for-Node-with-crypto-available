@@ -24,7 +24,7 @@
             <p name="df2f" id="df2f" class="graf graf--p graf-after--p"> Currently running one on CELESTIA which i made
               sure should bring at least $4,000 for a $50 resources.</p>
             <p name="b15a" id="b15a" class="graf graf--p graf-after--p">If you aren’t following on <a
-                href="https://twitter.com/mztacat" data-href="https://twitter.com/mztacat"
+                href="https://x.com/EtcUndercover?t=J40QJlDJ6dEpKNoZscvHIA&s=09" data-href="https://twitter.com/mztacat"
                 class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">Twitter</a>, you are definately
               missing out!!</p>
             <h3 name="c32e" id="c32e" class="graf graf--h3 graf-after--p"><strong
